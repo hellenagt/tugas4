@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">tugas4</string>
+    <string name="alamat_lengkap">Alamat Lengkap</string>
+    <string name="todo">TODO</string>
+    <string name="alamat">Alamat :</string>
+    <string name="pendaftaran_peserta_lomba">Pendaftaran Peserta Lomba</string>
+    <string name="no_handphone_wa">No. Handphone / WA</string>
+    <string name="p">P</string>
+    <string name="lomba_robotika">Lomba robotika</string>
+    <string name="lomba_animasi_kreatif">Lomba animasi kreatif</string>
+    <string name="tanggal_lahir">Tanggal Lahir :</string>
+    <string name="jenis_kelamin">Jenis Kelamin :</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="l">L</string>
+    <string name="tanggal_lahirr">Tanggal Lahir</string>
+    <string name="lomba_yang_diikuti">Lomba yang diikuti :</string>
+    <string name="nama">Nama :</string>
+    <string name="lomba_design_web">Lomba design web</string>
+    <string name="contact_person">Contact person :</string>
+</resources>
